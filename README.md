@@ -1,2 +1,2 @@
 # R_Programs
-A repo to save all the R programs 
+This repo is to store all the R code I learned from online sources. 
